@@ -1,6 +1,6 @@
 # Responsible Data Workshop Resources
 This repository contains resources that are relevant to our workshop series on responsibly training foundation models.
-If you are interested in contributing resources to this repository, please submit a Pull Request. 
+If you are interested in contributing resources to this repository, please submit an [Issue](https://github.com/Responsible-Data-Workshop/resources/issues). 
 
 ### Upcoming Workshops
 - [September 15th-16th @ ASU California Center](https://responsible-data-workshop.github.io/la2025/)
