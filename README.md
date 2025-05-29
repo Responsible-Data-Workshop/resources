@@ -8,9 +8,14 @@ If you are interested in contributing resources to this repository, please submi
 
 
 ## Resources
-### Considerations and Frameworks
+### Ethical Considerations and Frameworks
 - [A Taxonomy of Challenges to Curating Fair Datasets](https://proceedings.neurips.cc/paper_files/paper/2024/hash/b142e78db191e19b17e60c1425a28b52-Abstract-Datasets_and_Benchmarks_Track.html)
 - [Ethical Considerations for Responsible Data Curation](https://proceedings.neurips.cc/paper_files/paper/2023/hash/ad3ebc951f43d1e9ed20187a7b5bc4ee-Abstract-Datasets_and_Benchmarks.html)
+- [The Dark Side of Dataset Scaling: Evaluating Racial Classification in Multimodal Models](https://dl.acm.org/doi/10.1145/3630106.3658968)
+- [Consent in Crisis: The Rapid Decline of the AI Data Commons](https://arxiv.org/abs/2407.14933)
+- [A Critical Analysis of the Largest Source for Generative AI Training Data: Common Crawl](https://dl.acm.org/doi/10.1145/3630106.3659033)
+- [Documenting Large Webtext Corpora: A Case Study on the Colossal Clean Crawled Corpus](https://aclanthology.org/2021.emnlp-main.98.pdf)
+- [Training Data for the Price of a Sandwich: Common Crawl’s Impact on Generative AI](https://www.mozillafoundation.org/en/research/library/generative-ai-training-data/common-crawl/)
 
 
 ### Background on Current Dataset Curation Practices
