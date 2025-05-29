@@ -16,6 +16,7 @@ If you are interested in contributing resources to this repository, please submi
 - [A Critical Analysis of the Largest Source for Generative AI Training Data: Common Crawl](https://dl.acm.org/doi/10.1145/3630106.3659033)
 - [Documenting Large Webtext Corpora: A Case Study on the Colossal Clean Crawled Corpus](https://aclanthology.org/2021.emnlp-main.98.pdf)
 - [Training Data for the Price of a Sandwich: Common Crawl’s Impact on Generative AI](https://www.mozillafoundation.org/en/research/library/generative-ai-training-data/common-crawl/)
+- [We Must Fix the Lack of Transparency Around the Data Used to Train Foundation Models](https://hdsr.mitpress.mit.edu/pub/xau9dza3/release/2)
 
 
 ### Background on Current Dataset Curation Practices
