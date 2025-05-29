@@ -23,6 +23,7 @@ If you are interested in contributing resources to this repository, please submi
 #### Overview
 - [A Survey on Data Selection for Language Models](https://arxiv.org/abs/2402.16827)
 - [Data Curation for LLMs](https://dcai.csail.mit.edu/2024/data-curation-llms/)
+- [What Makes a High-Quality Training Dataset for Large Language Models: A Practitioners' Perspective](https://dl.acm.org/doi/abs/10.1145/3691620.3695061)
 
 #### Pre-Training Data
 - [Dolma: an Open Corpus of Three Trillion Tokens for Language Model Pretraining Research](https://arxiv.org/abs/2402.00159)
