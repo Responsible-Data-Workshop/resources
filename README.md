@@ -4,7 +4,7 @@ If you are interested in contributing resources to this repository, please submi
 
 ### Upcoming Workshops
 - [September 15th-16th @ ASU California Center](https://responsible-data-workshop.github.io/la2025/)
-- [October 18th or 19th @ CSCW 2025](https://responsible-data-workshop.github.io/cscw2025/)
+- [October 18th @ CSCW 2025](https://responsible-data-workshop.github.io/cscw2025/)
 
 
 ## Resources
